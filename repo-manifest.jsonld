@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pyproj4/pyproj/commit/5e644eaf07982c20be6c251b71b4320294138a1a",
       "git:hexsha": "5e644eaf07982c20be6c251b71b4320294138a1a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:21:50.187742+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pyproj4/pyproj/commit/c47e3ac9a86b1045bc53c94452baf39c833b4d83",
